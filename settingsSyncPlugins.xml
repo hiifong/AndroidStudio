@@ -2,6 +2,19 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="app.teamhub">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.chrisrm.idea.MaterialThemeUI">
           <value>
             <PluginData>
@@ -29,6 +42,18 @@
             <PluginData>
               <option name="dependencies">
                 <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.wakatime.intellij.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
