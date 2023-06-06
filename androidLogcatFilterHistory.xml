@@ -1,0 +1,13 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:cc.hiifong.androidwork " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:cc.hiifong.androidwork " />
+        <option value="package:=cc.hiifong.androidwork " />
+        <option value="level:error " />
+        <option value="package:mine " />
+      </list>
+    </option>
+  </component>
+</application>

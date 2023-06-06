@@ -1,7 +1,17 @@
 <application>
+  <component name="GeneralSettings">
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
   <component name="Registry">
-    <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="9ba0a3" />
+    <entry key="editor.focus.mode.color.dark" value="9ba0a3" />
   </component>
 </application>
